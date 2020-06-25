@@ -1,0 +1,450 @@
+
+   { position: relative; margin:0;
+
+ }
+ 
+ /*         width:1245px;
+height:1375px;margin:0px;  background:url(img/Layer11.png) no-repeat;                           */
+  body { 
+    max-width:1044px;
+    margin:auto;
+    font-family:Impact ;
+	 
+	 margin: 0px 20px 0px 20px;
+	color:#777; 
+ 
+   } 
+.wrapper{  
+max-width:1044px;
+margin:auto;
+
+  }
+  
+
+
+
+
+
+.stroca{width:410px;
+height:28px; 
+ background:#faa61a;
+ margin: 1px 0px 0px 634px;
+ 
+}
+.stroca_vvoda{   width:225px;
+  height:18px; 
+  margin: 6px 0px 0px 21px;
+}
+.cnopca_poisca{ border:0px;
+ background:#faa61a;
+ width:85px;
+ height:18px; 
+ }
+ 
+ 
+ 
+ 
+.logo_list{
+  display:inline-block;
+  margin: 41px 0px 0px 0px;/**/
+}
+.logo_nazvanie{ 
+  display:inline-block; 
+  margin: 0px 0px 0px 20px;/*   float:right;    */
+}
+/*ul.logo_spisoc  Убирает подчеркивание для ссылок */
+
+ul.logo_spisoc li{ 
+  display:inline; 
+  margin-right:5px;
+}
+ 
+ 
+.hove{color:#000000;
+margin: 0px 0px 0px 10px; 
+   text-decoration: none; /* Убирает подчеркивание для ссылок */
+}
+ ul.logo_spisoc li, ul.logo_spisoc li{list-style-type: none; }
+ 
+ ul.logo_spisoc { 
+ margin: 0px 0px 0px 469px; /*отступы 0*/
+  padding:4px;/* значение полей*/
+}
+
+
+/*отступ с лева .logo_list,.logo_nazvanie, .logo_spisoc{ display:inline;/*как строчный элемент */
+
+
+.logo_spisoc{  
+
+ display:inline-block;
+
+}
+/*   display:table-cell;    vertical-align: top;  text-align:right;   display:table;   
+
+          */
+.centr{ 
+ margin: 45px 0px 0px 0px;
+ position:relative;
+  background:#faa61a;
+ height:548px; 
+
+}  
+
+
+
+
+
+.zagolovoc_centra h1{ 
+ font-size:4.90em;
+color:#030200;
+position:absolute; 
+top:29px; 
+left:35px;
+ margin: 0px;
+  line-height:1;
+   
+}
+
+.podzagolovoc_centra{ 
+height:366px;
+width:604px;
+ background:#030200;
+ position:absolute; 
+top:145px; 
+left:77px;
+
+}
+ .podzagolovoc_centra img{  
+ position:absolute; 
+
+left:-23px;
+ }
+/*  text-align:right;    font-weight:normal;   .zagolovci{ height:
+wigth:190px; 
+ margin:0px;
+  padding:0px;}  */
+ 
+
+
+.pod_zagolovoc1, .pod_zagolovoc2, .pod_zagolovoc3, .pod_zagolovoc4 { 
+position:relative;
+left:420px;
+background:#ffffff;
+color:#030200;
+ line-height:1;
+
+}
+.pod_zagolovoc1{width:53px;}
+.pod_zagolovoc2{width:176px;}
+.pod_zagolovoc3{width:83px;}
+.pod_zagolovoc4{width:133px;}
+
+.opisanie_podzagolovca{ 
+ position:relative;
+ left:420px;
+ width:190px;
+ line-height:1;
+ color:#ffffff;
+ 
+}
+
+div .mini_cartinci1{
+ position:absolute; 
+top:306px; 
+left:10px;}
+
+div .mini_cartinci2{position:absolute; 
+top:306px; 
+left:107px;}
+
+div .mini_cartinci3{position:absolute; 
+top:306px; 
+left:204px;}
+
+.label{ 
+position:absolute;
+top:18px; 
+left:-50px;
+height:45px;
+width:213px;
+background:#030200;
+color:#ffffff;
+font-size: 28px;
+opacity:0.8;
+}
+.centr_play{ 
+ position:absolute;
+top:150px; 
+right:px;
+margin-left:207px;
+}
+.centra_opisanie{ 
+height:368px;
+width:280px;
+background:#ffffff;
+position:absolute;
+top:146px;
+left:721px;
+}
+
+.centra_opisanie h2{ 
+font-size:20px;
+color:#030200;
+ margin: 2px 0px 2px 13px;
+
+}
+.did_you p{  position:relative;}
+.centra_opisanie img{ }
+.centra_opisanie p{ line-height:1,7em; 
+margin: 27px 15px 0px 13px;
+
+}
+.prohitai{  
+height:23px;
+width:102px;
+ position:absolute;
+ top:328px;
+ left:174px;
+ background:#faa61a;
+ 
+}
+.prohitai div{ 
+background:#030200;
+
+position:absolute;
+ top:px;
+ left:0px;
+ height:23px;
+width:72px;
+font-size:14px;
+
+}
+.prohitai p{ position:absolute;
+ top:-25px;
+ left:-12px;
+ height:23px;
+width:72px;
+font-size:14px; 
+color:#ffffff;
+
+}
+.prohitai img{ 
+position:absolute;
+ top:7px;
+ left:81px;
+}
+.razdeli{
+margin: 35px 0px 0px 0px ;
+
+position:relative;
+
+
+ }
+.linia_gorizontalnaa_verh{ 
+
+ border:none;
+background-color:#cccccc;
+color:#030200;
+height:1px;
+ }
+ .linia_gorizontalnaa_niz{ margin: 327px 0px 0px 0px ;
+ border:none;
+background-color:#cccccc;
+color:#030200;
+height:1px;
+ }
+ .linia_vertical_pervaa{
+ position:absolute;
+ top:-36px;
+  height:374px;
+width:287px;
+border-left:2px solid #cccccc;
+margin-left:285px;
+ margin-top: 16px;
+padding-left
+ }
+
+ .linia_vertical_vtoraa{ 
+  position:absolute;
+  left:420px;
+ top:-36px;
+  height:374px;
+width:287px;
+border-left:2px solid #cccccc;
+margin-left:293px;
+ margin-top: 16px;
+padding-left
+ } 
+ 
+ .article div {
+position:relative;
+ background:#faa61a; 
+   height:18px;
+width:22px;
+ float:left;
+ 
+ }
+ .article  img{ 
+  position:absolute;
+    left:5px;
+ top:4px;
+ }
+ 
+.OUR span{color:#faa61a; }
+.OUR{ color:#030200; }
+.bloc_pervi{   
+position:absolute;
+    left:45px;
+ top:1px;}
+ 
+  
+ .article p{  width:184px; 
+ margin-left: 35px;  
+ color:#000000;}
+ 
+ .did_you span{ 
+ color:#faa61a;}
+  .did_you { color:#030200;}
+ .bloc_vtoroi p{width:343px; }
+ .bloc_vtoroi{
+  position:absolute;
+    left:330px;
+ top:1px;}
+ 
+ .cnopca{  
+height:23px;
+width:102px;
+ position:absolute;
+ top:278px;
+ left:241px;
+ background:#faa61a;
+ 
+}
+.cnopca div{ 
+background:#030200;
+
+position:absolute;
+ top:px;
+ left:0px;
+ height:23px;
+width:72px;
+font-size:14px;
+
+}
+.cnopca p{ position:absolute;
+ top:-12px;
+ left:1px;
+ height:23px;
+width:72px;
+font-size:14px; 
+color:#ffffff;
+
+}
+.cnopca img{ 
+position:absolute;
+ top:7px;
+ left:81px;
+}
+
+ .spisoc_iconoc_telefon, .spisoc_iconoc_printer, .spisoc_iconoc_cmc, .spisoc_iconoc_dom{ line-height:2;}
+ .spisoc_iconoc { line-height:2.1;position:relative;  }
+ .spisoc_iconoc .adresa {list-style-type:none;   padding:0px; margin: 0px;position:absolute; left:50px; top:1px;}
+
+.spisoc_iconoc_telefon{ padding:0px; margin: 0px 0px 0px 8px;}  
+.spisoc_iconoc_cmc{margin: 3px 0px 0px 2px; }
+  .spisoc_iconoc_dom{ margin: 3px 0px 0px 1px ;}
+.bloc_tretii h3{color:#faa61a; position:relative;  }
+.bloc_tretii {position:absolute; left:758px; top:1px;}
+.nomer_telefona, .nomer_printera, .pohta_cmc, .opisanie_doma_strohca1, .opisanie_doma_strohca2, .opisanie_doma_strohca3{ height:22px; background:#000000; color:#ffffff;}
+
+  .nomer_telefona{position:absolute; left:40px; top:1px; width:120px;  }
+  .nomer_printera{position:absolute; left:40px; top:38px; width:120px;}
+.pohta_cmc{position:absolute; left:40px; top:75px; width:176px;}
+  .opisanie_doma_strohca1{width:177px; position:absolute; left:40px; top:118px;}
+  .opisanie_doma_strohca2{width:79px; position:absolute; left:40px; top:143px;}
+  .opisanie_doma_strohca3{width:157px; position:absolute; left:40px; top:168px;}
+  
+  
+
+
+.nomer_telefona span, .nomer_printera span, .pohta_cmc span, .opisanie_doma_strohca1 span, .opisanie_doma_strohca2 span, .opisanie_doma_strohca3 span { 
+ position:absolute; left:5px; bottom:-5px; }
+
+  
+  footer{height:305px; }
+  footer h4{ font-size:18px; margin: 58px 0px 0px 37px; }
+ h4 span{ color:#fcca76;}
+  footer img{ margin: 20px 0px 0px 37px;}
+  .logo_list_footera{
+  display:inline-block;
+  margin: 41px 0px 0px 0px;/**/
+}
+.logo_nazvanie_lista{ 
+  display:inline-block; 
+  margin: 0px 0px 0px 20px;}
+  
+  .linia_gorizontalnaa{ 
+
+ border:none;
+background-color:#cccccc;
+color:#030200;
+height:1px;
+margin: -15px 0px -9px 230px;
+ }
+  
+
+    .H{ margin:0px 0px 7px 0px; display:inline-block;  text-decoration: none;
+  color:#000000; }
+  about{ display:inline-block;}
+  .spisoc_minu{ max-width:465px; margin:0px 0px 0px 580px; height:0px;  display:flex;  justify-content:space-between; align-items:center;}
+  .H{ display:inline-block;}
+  
+  /*         
+ justify-content:space-around; align-items:content; flex-wrap:wrap;
+ left:44px;
+flex-end
+center
+.strohca_odin{ height:px;background:#030200; color:#ffffff; display:inline;  margin: 0px 0px 0px 20px; padding:10px;}
+.strohca_dva{height:22px;  background:#030200; color:#ffffff; margin: 5px 0px 0px 0px; }
+.strohca_tri{height:22px; background:#030200; color:#ffffff; margin: 5px 0px 0px 0px; }
+ .pohta_cmc{ margin: 4px 0px 0px 1px ;position:relative; }
+ padding: 0px 0px 0px 0px;
+ 
+ .cratcoe_opisanie{list-style-type:none;   padding:0px; margin: 0px; }
+ 
+                                                       */
+  
+  
+  
+ /*  width:117px;   float:right:  vertical-align display: inline-block ;
+ vertical-align:top;  .spisoc_iconoc{}         .article  img{ 
+  position:absolute;
+    left:50px;
+ top:74px;
+ display:inline;
+ }
+  .article div { background:#faa61a; 
+  position:absolute;
+    left:45px;
+ top:70px; 
+   height:18px;
+width:22px;
+ 
+ 
+ }
+ .OUR{  
+ position:absolute;
+    left:40px;
+ top:1px; }
+ .article p{ 
+  position:absolute;
+    left:50px;
+ top:74px; }
+         */
+ 
+ 
+
+ 
+ 
+ 
