@@ -1,0 +1,31 @@
+@font-face {
+ 
+ 
+  
+ 
+
+  
+  
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+font-family: 'Circe'; /* Имя шрифта */
+src: local('Circe'), /* проверяем наличие шрифта в ОС пользователя */
+url(../fonts/CRC55.otf); /* если шрифт не установлен, тогда загружаем его по указанному пути */
+font-weight:normal;
+font-style:normal;
+}
+ 
+@font-face {
+font-family: 'Circe Bold'; /* Имя шрифта */
+src: local('Circe Bold'), /* проверяем наличие шрифта в ОС пользователя */
+url(../fonts/CRC65.otf); /* если шрифт не установлен, тогда загружаем его по указанному пути */
+font-weight:normal;
+font-style:normal1
+
+
+121245677890-=\ъхзщшгнекцццй	фыапоолджжэ.юбьтимчя123654789ыымавмасмии
